@@ -1,9 +1,9 @@
-displayName: UID Demo
+displayName: Request ID
 type: middleware
+# iconPath: .assets/icon.png
+import: github.com/4ops/uiddemo
 
-import: github.com/notsureifkevin/uiddemo
-
-summary: '[Demo] Inject unique id header'
+summary: 'Inject unique id header'
 
 testData:
   HeaderName: "X-Traefik-Test"
