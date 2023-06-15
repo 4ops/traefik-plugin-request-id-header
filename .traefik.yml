@@ -1,7 +1,7 @@
 displayName: Request ID
 type: middleware
 # iconPath: .assets/icon.png
-import: github.com/4ops/uiddemo
+import: github.com/4ops/traefik-plugin-request-id-header
 
 summary: 'Inject unique id header'
 
